@@ -1,11 +1,11 @@
-package com.hr.proxy;
+package com.hr.cglib;
 
 import com.hr.proxy.IProducer;
 
 /**
  * 生产者
  */
-public class Producer implements IProducer {
+public class Producer{
 
     /**
      * 生产厂家 销售
